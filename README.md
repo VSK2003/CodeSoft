@@ -1,2 +1,2 @@
-# codeSoft
-codeSoft Internship Tasks
+# CodeSoft
+CodeSoft Internship Tasks
