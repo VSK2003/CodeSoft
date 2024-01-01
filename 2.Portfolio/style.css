@@ -63,7 +63,8 @@ nav ul li a:hover{
 }
 .content{
    position: relative;
-   display: inline-flex;
+   display:flex;
+   flex-wrap: wrap;
    align-items: center;
    justify-content: space-between;
    margin-left: 30px;
@@ -103,5 +104,9 @@ nav ul li a:hover{
 }
 .content .btn:hover{
     color:#8b5fbf;
+}
+.right{
+    margin-top: -400px;
+    margin-left: 50%;
 }
 
